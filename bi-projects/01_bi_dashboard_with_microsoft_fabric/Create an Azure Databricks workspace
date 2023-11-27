@@ -1,4 +1,5 @@
-Create an Azure Databricks workspace
+# Create an Azure Databricks workspace
+
 If we work a first time with Azure, we need to create 
 1.	Azure Subscription
 2.	Resource group 
