@@ -20,8 +20,9 @@ Info about Resource group: https://learn.microsoft.com/en-us/azure/azure-resourc
 
 
 ## New storage account
+Info about Storage account 
 
-![image](https://github.com/olga12401/data-projects/assets/86374953/e677f609-19a3-4583-a807-5550c998efc7) 
+![image](https://github.com/olga12401/data-projects/assets/86374953/e677f609-19a3-4583-a807-5550c998efc7)       
 
 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/99e43894-61e3-4631-8049-87610c3ea45e)
