@@ -20,11 +20,17 @@ Info about Resource group: https://learn.microsoft.com/en-us/azure/azure-resourc
 
 
 ## New storage account
-Info about Storage account 
+Info about Storage account: https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview .
+An Azure storage account contains all of your Azure Storage data objects: 
+1. blobs
+2. files 
+3. queues 
+4. tables.
 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/e677f609-19a3-4583-a807-5550c998efc7)       
 
-
+Storage name consicts only from numbers and lowercase letters only.
+We can choose another region for Storage and resource group. 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/99e43894-61e3-4631-8049-87610c3ea45e)
 
 
