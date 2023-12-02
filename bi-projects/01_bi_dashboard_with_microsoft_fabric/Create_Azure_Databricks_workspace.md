@@ -1,4 +1,4 @@
-# Create an Azure Databricks workspace
+# Step 1. Create an Azure Databricks workspace
 Azure provides four levels of scope: 
 1. management groups 
 2. subscriptions
@@ -13,13 +13,13 @@ If we work a first time with Azure, we need to create account and make next step
 3.	New storage account
 4.	Virtual Network (VNet)
 
-## Create a Resource group
+## Step 2 Create a Resource group
 Info about Resource group: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups .
 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/3119b5f8-e2b2-4dee-9e9b-97bbaf039c3c)
 
 
-## New storage account
+## Step 3 New storage account
 Info about Storage account: https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview .
 An Azure storage account contains all of your Azure Storage data objects: 
 1. blobs
@@ -51,4 +51,4 @@ We can choose another region for Storage and resource group.
 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/60728e02-f5cb-4a74-a86e-3da35a7512da)
 
-
+## Step 4 New storage account
