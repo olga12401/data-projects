@@ -52,7 +52,25 @@ Using a VM as a bastion host within an Azure Virtual Network (VNet) is a common 
    ![image](https://github.com/olga12401/data-projects/assets/86374953/76293303-9e87-4728-82a4-f0b9d1268032)
 
 
-##  Create virtual machines  2
+##  Create virtual machines  2 
+
+1. 3. Create new Vm
+
+![image](https://github.com/olga12401/data-projects/assets/86374953/e14c442a-5824-41bd-9ce0-ca3b7fb325d1) 
+
+![image](https://github.com/olga12401/data-projects/assets/86374953/a3113586-d2fc-4723-843d-bb224d916944) 
+
+2. Select the Networking for Vm 
+![image](https://github.com/olga12401/data-projects/assets/86374953/4b25d52d-fd04-4356-a5df-f457178b40d3) 
+
+![image](https://github.com/olga12401/data-projects/assets/86374953/7b12d2ae-b3d7-48f2-b7b9-0bcb4ac6fd18) 
+
+3. 5. Select "Review + create".
+![image](https://github.com/olga12401/data-projects/assets/86374953/ebeedc11-4f6d-4a02-ba14-e983820b09a9)
+
+
+##  Connect to a virtual machine
+
 
 
 
