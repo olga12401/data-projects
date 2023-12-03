@@ -71,6 +71,24 @@ Using a VM as a bastion host within an Azure Virtual Network (VNet) is a common 
 
 ##  Connect to a virtual machine
 
+1. Home -> Virtual machine -> Select vm-1 - Overview 
+2. Click "Connect"
+3. Configured connection -> Bastion -> Use Bastion
+4. Enter the username and password I created when I created the vm-1
+5. Connect   
+6. Communicate between VMs 
+
+At the bash prompt for vm-1, enter **ping -c 4 vm-2** .
+
+We need to get messege. 
+
+ ![image](https://github.com/olga12401/data-projects/assets/86374953/867d412d-7ddf-406f-bb75-3ca4ca82e656) 
+
+Close vm-1 and  make the step from 1 to 6 (block Connect to a virtual machine)  for vm-2. 
+
+At the bash prompt for vm-1, enter **ping -c 4 vm-1** .
+
+
 
 
 
