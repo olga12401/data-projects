@@ -1,4 +1,4 @@
-# Databricks workspace
+# Databricks workspace with VNET Injection
 ## Setup Azure Databricks Workspace with VNET Injection
 1. Click to "Databricks" on the Home page
 2. Click "Create"
