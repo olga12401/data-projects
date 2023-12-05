@@ -18,4 +18,17 @@ VNets provide features like network isolation, segmentation, and control over IP
 
 ![image](https://github.com/olga12401/data-projects/assets/86374953/603886ff-90f2-46f5-b5f9-d27341180cb3)
 
-2.
+2. Create IP and Subnets . Default subnet I rename to public + change size 
+
+![image](https://github.com/olga12401/data-projects/assets/86374953/c4536b0f-ff1c-4121-b9f1-89436c29f2f6)
+
+3. Add private subnet
+
+![image](https://github.com/olga12401/data-projects/assets/86374953/fe6bb9c8-81c6-41ca-ae61-167ccf0f29d8)
+
+4. Security: All disable 
+4. Review+Create
+5. Create 
+
+
+
